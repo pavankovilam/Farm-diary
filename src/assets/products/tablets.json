@@ -1,0 +1,46 @@
+[
+	{
+		"productId": 1,
+		"productName": "Curd",
+		"productCode": "TAB-120",
+		"description": "1 Liter",
+		"price": 450,
+		"imageUrl": "assets/imgs/curd.jpeg",
+		"manufacturer": "Ammul",
+		"ostype": "jersy",
+		"rating": 4
+	},
+	{
+		"productId": 2,
+		"productName": "Blackberry Curd",
+		"productCode": "TAB-124",
+		"description": "1 Liter",
+		"price": 600,
+		"imageUrl": "assets/imgs/blackberry-curd.jpeg",
+		"manufacturer": "sangam",
+		"ostype": "gar",
+		"rating": 3
+	},
+	{
+		"productId": 3,
+		"productName": "Lemon Curd",
+		"productCode": "TAB-125",
+		"description": "1 Liter",
+		"price": 550,
+		"imageUrl": "assets/imgs/lemon-curd.jpg",
+		"manufacturer": "Heritage",
+		"ostype": "goat",
+		"rating": 4
+	},
+	{
+		"productId": 4,
+		"productName": "Homemade Mango Curd.",
+		"productCode": "TAB-126",
+		"description": "1 Liter",
+		"price": 425,
+		"imageUrl": "assets/imgs/mango-curd.jpeg",
+		"manufacturer": "Arogya",
+		"ostype": "cow",
+		"rating": 3
+	}
+]

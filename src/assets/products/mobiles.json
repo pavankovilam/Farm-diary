@@ -1,0 +1,90 @@
+[
+	{
+		"productId": 1,
+		"productName": "Organic Cow Milk",
+		"productCode": "MOB-120",
+		"description": "1 Liter ,52% Fat",
+		"price": 800,
+		"imageUrl": "assets/imgs/cow-1-ltr.jpg",
+		"manufacturer": "Ammul",
+		"ostype": "cow",
+		"rating": 4
+	},
+	{
+		"productId": 2,
+		"productName": "Tonned Milk",
+		"productCode": "MOB-124",
+		"description": "1 Liter , 62% Fat",
+		"price": 850,
+		"imageUrl": "assets/imgs/image2.jpeg",
+		"manufacturer": "Arogya",
+		"ostype": "Jersy",
+		"rating": 4
+	},
+	{
+		"productId": 3,
+		"productName": "Goat milk ",
+		"productCode": "MOB-125",
+		"description": "1 Liter , 82% Fat",
+		"price": 300,
+		"imageUrl": "assets/imgs/goat-milk-1ltr.jpg",
+		"manufacturer": "Ammul",
+		"ostype": "Goat",
+		"rating": 4.3
+	},
+	{
+		"productId": 4,
+		"productName": "Tonned Cow Milk",
+		"productCode": "MOB-126",
+		"description": "1 Liter , 72% Fat",
+		"price": 400,
+		"imageUrl": "assets/imgs/cow-milk2.png",
+		"manufacturer": "Arogya",
+		"ostype": "cow",
+		"rating": 4.2
+	},
+	{
+		"productId": 5,
+		"productName": "Goat milk ",
+		"productCode": "MOB-127",
+		"description": "1/2 Liter , 82% Fat",
+		"price": 325,
+		"imageUrl": "assets/imgs/image3.jpeg",
+		"manufacturer": "Sangam",
+		"ostype": "Goat",
+		"rating": 4.3
+	},
+	{
+		"productId": 6,
+		"productName": "Tonned Milk",
+		"productCode": "MOB-128",
+		"description": "1/2 Liter , 72% Fat",
+		"price": 700,
+		"imageUrl": "assets/imgs/image4.jpeg",
+		"manufacturer": "Heritage",
+		"ostype": "Jersy",
+		"rating": 4
+	},
+	{
+		"productId": 7,
+		"productName": "Organic Cow Milk",
+		"productCode": "MOB-129",
+		"description": "1/2 Liter ,52% Fat",
+		"price": 700,
+		"imageUrl": "assets/imgs/organic-cow-milk.jpeg",
+		"manufacturer": "Sangam",
+		"ostype": "cow",
+		"rating": 3.5
+	},
+	{
+		"productId": 8,
+		"productName": "Tonned Cow Milk",
+		"productCode": "MOB-130",
+		"description": "1/2 Liter , 72% Fat",
+		"price": 725,
+		"imageUrl": "assets/imgs/toned-hritage.jpeg",
+		"manufacturer": "Heritage",
+		"ostype": "cow",
+		"rating": 4.5
+	}
+]
